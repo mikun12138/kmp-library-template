@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "kmp-library"
 include(":sandbox")
-include("mylibrary")
+include(":mylibrary")
